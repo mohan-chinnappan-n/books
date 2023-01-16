@@ -2,8 +2,8 @@
 # Pongal Prize - Thooran
 
 - OCRed with [OCR App](https://mohan-chinnappan-n2.github.io/2021/ai/ocr/ocr.html)
-    - Please share this app with folks who likes to contribute to bring our literature in paper form into digital
-    - It is not perfect yet... I am sill tinkering it
+    - Please share this app with the folks who likes to contribute to bring our literature in paper form into digital
+    - It is not perfect yet... I am sill tinkering...
 
 ![ocr demo](img/ocr-1.png)
 
@@ -124,6 +124,7 @@ _ நறுக்கி வண்ண மைகளைக்‌ கொண்டு
 
 ---
 4
+
 அதிலுள்ள கவிதைத்‌ துணுக்குகளும்‌, எண்ணத்‌ துணுக்‌
 குகளும்‌ புதியதோர்‌ வலிமையோடு என்னைக்‌ கவர்ந்தன.
 அதன்‌ விளைவாக இந்த நூல்‌ உருவாயிற்று. ட்‌
