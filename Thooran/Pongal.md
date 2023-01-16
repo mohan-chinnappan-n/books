@@ -3,7 +3,7 @@
 
 - OCRed with [OCR App](https://mohan-chinnappan-n2.github.io/2021/ai/ocr/ocr.html)
     - Please share this app with the folks who likes to contribute to bring our literature in paper form into digital
-    - It is not perfect yet... I am sill tinkering...
+    - It is not perfect yet... I am still tinkering...
 
 ![ocr demo](img/ocr-1.png)
 
