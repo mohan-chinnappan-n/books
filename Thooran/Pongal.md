@@ -5,6 +5,10 @@
 
 [![Pongal Prize - Thooran](https://img.youtube.com/vi/M09DuqG-qeI/0.jpg)](https://www.youtube.com/watch?v=M09DuqG-qeI)
 
+### DR S SOWMYA presents PERIASAMY THOORAN
+
+[![DR S SOWMYA presents PERIASAMY THOORAN](https://img.youtube.com/vi/MF1ZvuOjgQ8/0.jpg)](https://www.youtube.com/watch?v=MF1ZvuOjgQ8)
+
 
 - OCRed with [OCR App](https://mohan-chinnappan-n2.github.io/2021/ai/ocr/ocr.html)
     - Please share this app with the folks who likes to contribute to bring our literature in paper form into digital
